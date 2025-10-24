@@ -1,0 +1,17 @@
+.option-btn {
+    text-align: left;
+}
+
+.correct {
+    border: 2px solid #198754; /* Green border for correct answer */
+}
+
+.incorrect {
+    border: 2px solid #dc3545; /* Red border for user's incorrect choice */
+}
+
+.list-group-item.active {
+    background-color: #0d6efd;
+    color: white;
+    border-color: #0d6efd;
+}
